@@ -18,6 +18,7 @@
  + Picasso
  + RecyclerView
  + Moshi
+ + API https://github.com/Mingaleev-D92/Travel-Nav-Component/blob/master/app/src/main/res/raw/croatia.json
 
 ## Architecture | Архитектура
 
